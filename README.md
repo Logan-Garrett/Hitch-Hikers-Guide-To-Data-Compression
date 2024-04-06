@@ -5,7 +5,8 @@ Following My Journey From Beginner to Pro for Data Compression.
 The journey for understanding data compression is not one that is fast and takes a lot to become a master in. This will follow me through my journey of learning data compression. Hopefully this helps others in the future!
 
 ## Start 
-### RLE(Run-length Encoding)
+
+### Run-length Encoding
 To start to understand how data compression works I searched the internet to find one that clicks. For me the simplest and most straightforward starting poing was for `Run-length Encoding`. RLE(Run-length Encoding) is a form of lossless data compression that involves finding consecutive data elements. 
 
 An example such as the one below is not something that we would seen in a text document but would be seen in a black and white image.
