@@ -24,4 +24,8 @@ WWWWWWWWWWWBWWWWWWWWWWWWBBBWWWWWWWWWWWWWWWWWWWWWWWWBWWWWWWWWWWWWWW
 
 As can be seen from above the original 67 characters is now only 18 characters which is a dramtic difference between the two of them. Now even though this is shown in ASCII as mentioned in the Wiki Article it does not matter because the principle is still the same for both. There is also other ways this data can be interpreted and compressed to handle situations with less repertition. More of this can be read about in the above wiki lenght that was linked. The last part that I will cover is that with some of these you have to overcome the data and escape symbols from the run lengths. Allowing them to be handled independently such as these two outputs: `"WWBWWBBWWBWW"` & `(12,12,3,24,14)`. 
 
+### Lempel–Ziv–Welch
+(Source: https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch)
+
 ### Huffman coding
+(Source: https://en.wikipedia.org/wiki/Huffman_coding)
